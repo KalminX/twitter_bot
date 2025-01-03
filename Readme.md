@@ -20,8 +20,8 @@ This project is a prototype developed to scrape tweets from Twitter written in P
 1. **Clone the repository**:
 
    ```bash
-   git clone <repository-url>
-   cd <repository-name>
+   git clone https://github.com/KalminX/twitter_bot.git
+   cd twitter_bot
    ```
 
 2. **Set up the backend**:
