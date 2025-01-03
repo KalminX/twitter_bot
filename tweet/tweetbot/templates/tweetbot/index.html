@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=SUSE:wght@100..800&display=swap" rel="stylesheet">
+    <title>Twitter Trends</title>
+    <style>
+        body {
+            background-color: #7858d3;
+            font-family: "SUSE", sans-serif;
+            font-optical-sizing: auto;
+            font-weight: 300;
+            font-style: normal;
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        main {
+            border: 5px solid #f0f0fd;
+            border-radius: 2em;
+            padding: 20px;
+        }
+
+        .tweet {
+            border-radius: 1.5em;
+            padding: 10px;
+            background-color: #cdcdf8;
+            margin-bottom: 5px;
+            box-shadow: 21px 24px 24px 0px rgba(25, 25, 25, 0.75);
+            -webkit-box-shadow: 21px 24px 24px 0px rgba(25, 25, 25, 0.75);
+            -moz-box-shadow: 21px 24px 24px 0px rgba(25, 25, 25, 0.75);
+            height: 6em;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>Major Tweet Trends (Sensitive/Negative Tweets)</h1>
+    </header>
+    <main>
+        <div class='tweets'>
+            {% for tweet in bad_tweets %}
+            <div class="tweet">
+                <h4 class='user'>Username: {{ tweet.username }}</h4>
+                <p class='tweet-text'>Tweet: {{ tweet.tweet }}</p>
+            </div>
+            {% empty %}
+            <p>No sensitive or negative tweets found.</p>
+            {% endfor %}
+        </div>
+    </main>
+</body>
+
+</html>

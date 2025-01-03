@@ -1,0 +1,78 @@
+{
+    "good": [
+        {
+            "user": "user5",
+            "tweet": "Weekend dey come, e go madt!"
+        },
+        {
+            "user": "user6",
+            "tweet": "Python na correct programming language!"
+        },
+        {
+            "user": "user7",
+            "tweet": "Today gym don make me feel strong."
+        },
+        {
+            "user": "user8",
+            "tweet": "I dey look forward to my next project."
+        },
+        {
+            "user": "user9",
+            "tweet": "Just read one correct blog on top web development."
+        },
+        {
+            "user": "user10",
+            "tweet": "My productivity don skyrocket today!"
+        },
+        {
+            "user": "user11",
+            "tweet": "I just finish one better book, e sweet."
+        },
+        {
+            "user": "user12",
+            "tweet": "This new season of my favorite show dey burst my head."
+        },
+        {
+            "user": "user13",
+            "tweet": "Chop better lunch today, I no fit complain."
+        },
+        {
+            "user": "user14",
+            "tweet": "Just start to learn new programming language, e dey interesting."
+        },
+        {
+            "user": "user15",
+            "tweet": "I dey feel inspired to do new things."
+        }
+    ],
+    "bad": [
+        {
+            "user": "user16",
+            "tweet": "Monday no dey ever sweet, na wah for life."
+        },
+        {
+            "user": "user17",
+            "tweet": "Everything just dey go wrong today, wahala no dey finish."
+        },
+        {
+            "user": "user18",
+            "tweet": "This project don tire me, e no dey gree work."
+        },
+        {
+            "user": "user19",
+            "tweet": "This weather no make sense at all, e too bad."
+        },
+        {
+            "user": "user20",
+            "tweet": "I no get any ginger today, e weak me."
+        },
+        {
+            "user": "user27",
+            "tweet": "Today na the worst day wey I don ever see."
+        },
+        {
+            "user": "user28",
+            "tweet": "I feel like to just give up, e don do."
+        }
+    ]
+}

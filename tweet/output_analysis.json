@@ -1,0 +1,46 @@
+{
+    "good": [
+        {
+            "username": "uche_omoluabi",
+            "tweet": "We must continue to work together to ensure national security. United we stand!"
+        },
+        {
+            "username": "jide_koko",
+            "tweet": "Make we all join hands to make Nigeria safe for everybody. We fit do am!"
+        },
+        {
+            "username": "gloria_ben",
+            "tweet": "I dey always pray for Nigeria security forces. God bless them as they protect us."
+        },
+        {
+            "username": "chioma_grace",
+            "tweet": "Nigeria is my home, and I believe we can make it safe again. Let's keep hope alive!"
+        }
+    ],
+    "bad": [
+        {
+            "username": "chidi_da_truth",
+            "tweet": "Dis country don tire me abeg. Wahala too much for Naija. \ud83d\ude12"
+        },
+        {
+            "username": "bisi_babe",
+            "tweet": "No hope again for this country. Things dey go from bad to worse. \ud83d\ude14"
+        },
+        {
+            "username": "olamide_001",
+            "tweet": "This government no care about us at all. Na so so suffering everywhere."
+        },
+        {
+            "username": "daredevil_nija",
+            "tweet": "The level of insecurity in this country is alarming. We need action now!"
+        },
+        {
+            "username": "ibrahim_zaki",
+            "tweet": "I just want to see a better Nigeria for my children. E no too much to ask."
+        },
+        {
+            "username": "isaac_truth",
+            "tweet": "We dey hear big big talk about security, but for ground, nothing dey happen."
+        }
+    ]
+}

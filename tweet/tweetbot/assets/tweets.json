@@ -1,0 +1,124 @@
+{
+  "tweets": [
+    {
+      "user": "user1",
+      "tweet": "Just had an amazing day!"
+    },
+    {
+      "user": "user2",
+      "tweet": "Learning Django is so much fun!"
+    },
+    {
+      "user": "user3",
+      "tweet": "Can't believe it's already Friday!"
+    },
+    {
+      "user": "user4",
+      "tweet": "Coffee and coding, my favorite combo."
+    },
+    {
+      "user": "user5",
+      "tweet": "Excited for the weekend!"
+    },
+    {
+      "user": "user6",
+      "tweet": "Python is so versatile!"
+    },
+    {
+      "user": "user7",
+      "tweet": "Had a great workout today."
+    },
+    {
+      "user": "user8",
+      "tweet": "Looking forward to the next project."
+    },
+    {
+      "user": "user9",
+      "tweet": "Just read an awesome blog on web development."
+    },
+    {
+      "user": "user10",
+      "tweet": "Productivity is at an all-time high!"
+    },
+    {
+      "user": "user11",
+      "tweet": "Just finished a great book."
+    },
+    {
+      "user": "user12",
+      "tweet": "Enjoying the new season of my favorite show."
+    },
+    {
+      "user": "user13",
+      "tweet": "Had a delicious lunch today."
+    },
+    {
+      "user": "user14",
+      "tweet": "Just started learning a new programming language."
+    },
+    {
+      "user": "user15",
+      "tweet": "Feeling inspired to create something new."
+    },
+    {
+      "user": "user16",
+      "tweet": "I can't stand Mondays. They ruin my mood."
+    },
+    {
+      "user": "user17",
+      "tweet": "Why is everything going wrong today?"
+    },
+    {
+      "user": "user18",
+      "tweet": "I'm so frustrated with this project."
+    },
+    {
+      "user": "user19",
+      "tweet": "This weather is awful, I hate it."
+    },
+    {
+      "user": "user20",
+      "tweet": "Feeling so unmotivated and down."
+    },
+    {
+      "user": "user21",
+      "tweet": "Just lost all my work due to a crash."
+    },
+    {
+      "user": "user22",
+      "tweet": "I can't believe how bad today is turning out."
+    },
+    {
+      "user": "user23",
+      "tweet": "Feeling completely overwhelmed."
+    },
+    {
+      "user": "user24",
+      "tweet": "Why does nothing ever go my way?"
+    },
+    {
+      "user": "user25",
+      "tweet": "I'm so tired of everything."
+    },
+    {
+      "user": "user26",
+      "tweet": "Today has been a total disaster."
+    },
+    {
+      "user": "user27",
+      "tweet": "Just had the worst day ever."
+    },
+    {
+      "user": "user28",
+      "tweet": "I feel like giving up."
+    },
+    {
+      "user": "user29",
+      "tweet": "Why is everything so difficult?"
+    },
+    {
+      "user": "user30",
+      "tweet": "I'm so done with this."
+    }
+  ]
+}
